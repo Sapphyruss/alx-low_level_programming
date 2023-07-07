@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * clear_bit - change the bit to 0 at given index
