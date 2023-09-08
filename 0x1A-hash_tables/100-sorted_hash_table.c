@@ -38,7 +38,7 @@ shash_table_t *shash_table_create(unsigned long int size)
  * shash_table_set - Adds an element to a sorted hash table.
  * @ht: Pointer to the sorted hash table.
  * @key: The key to add - cannot be empty.
- * @valu: The key.
+ * @value: The key.
  * Return: Ig failure - 0.
  *         Else - 1.
  */
